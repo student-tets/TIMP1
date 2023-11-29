@@ -1,0 +1,11 @@
+
+
+# Создадим фрейм зарплат
+df = pd.DataFrame({
+    'name': ['Alice', 'Bob', 'Carol', 'Frank', 'Eve'],
+    'position': ['Senior', 'Middle', 'Lead', 'Junior', 'Middle'],
+    'salary': [100000, 99817, 122908, 88123, 93121]
+    })
+df
+
+
